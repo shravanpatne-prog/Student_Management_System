@@ -1,4 +1,4 @@
-# Student_Management_System
+# Student Management System (Python + Tkinter + SQLite)
 A Python Tkinter-based Student Management System with SQLite database. Supports Add, View, Search, Update, and Delete operations. Features a clean GUI with Treeview for tabular display, making student record management simple and efficient.
 
 🚀 Features:-
@@ -14,6 +14,9 @@ A Python Tkinter-based Student Management System with SQLite database. Supports 
 Python 3.13.7
 Tkinter (for GUI)
 SQLite3 (for database)
+
+📷 Screenshots:-
+<img width="1920" height="991" alt="Student Management System 8_25_2025 8_05_10 PM" src="https://github.com/user-attachments/assets/0818b68c-cf25-4af6-a53e-da021971034f" />
 
 📌 Future Improvements:-
 ✅ Input validation (e.g., email format, mobile number length).
