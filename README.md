@@ -11,8 +11,8 @@ A Python Tkinter-based Student Management System with SQLite database. Supports 
 🎨 Tkinter GUI – Clean and interactive interface with Treeview for tabular display.
 
 🛠️ Tech Stack:-
-Python 3.13.7
-Tkinter (for GUI)
+Python 3.13.7,
+Tkinter (for GUI),
 SQLite3 (for database)
 
 📷 Screenshots:-
